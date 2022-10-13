@@ -1,1 +1,4 @@
 # Python Hub
+- PRINT FUNCTION 
+- DATA TYPES
+- VARIABLES
