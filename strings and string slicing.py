@@ -1,10 +1,10 @@
-#####################################
-#									#
-#									#
-#		  PYTHON STRINGS			#
-#									#
-#									#
-#####################################
+##################################
+#				 #
+#				 #
+#  	PYTHON STRINGS 		 #
+#	 			 #
+#				 #
+##################################
 
 # strings are letters numbers etc..,
 # strings are in single quotes and double quotes and triple quotes
@@ -36,9 +36,9 @@ print(sentence)
 
 
 #########################
-#						#
-#	STRINGS in array	#
-#						#
+#			#
+#    STRINGS in array	#
+#			#
 #########################
 
 # if i put some value in a varaible as string
@@ -52,7 +52,7 @@ print(code[4])
 # that means it will print  ' v ' only .
 # becoz array are 
 #	a 	b 	c	 d 	 e 		f
-#	0 	1	2	 3   4 		5
+#	0 	1	2	 3       4 		5
 # that like it will take all letters
 #for e.g.,
 
@@ -75,9 +75,9 @@ for x in "rock" :
 # like this it will print answers...
 
 #################
-#				#
+#		#
 # string length #
-#				#
+#		#
 #################
 
 # if we want a length of a string line , we can't count if the string has many lines 
@@ -95,9 +95,9 @@ print(len(a))
 
 
 #################
-#				#
+#		#
 # check string	#
-#				#
+#		#
 #################
 
 # we can check string if it is there are not 
@@ -111,12 +111,12 @@ else
 #if the 'am' in code it will check if it was there it will print yes or else it will print not.
 # we will learn more about in if-else ..
 
-#############################
-#							#
-#							#
+#################################
+#				#
+#				#
 #       String slicing 		#
-#							#
-#############################
+#				#
+#################################
 
 # string slicing means if we  len the string in previous, but this time 
 # we want a particular string letters .. for e.g.,
@@ -148,4 +148,4 @@ print(x[-5:-2])
 # becoz it will check from reverse order -1 , -2 -1 and -2 values will be removed
 #   -3 -4 -5 are taken after -5 it will remvoe all -6 -7 that index will not taken 
 
-
+##############################################################################################################
