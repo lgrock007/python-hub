@@ -148,4 +148,14 @@ print(x[-5:-2])
 # becoz it will check from reverse order -1 , -2 -1 and -2 values will be removed
 #   -3 -4 -5 are taken after -5 it will remvoe all -6 -7 that index will not taken 
 
+
+### index error #####
+
+# if the index is out of range 
+# for e.g.,
+
+x = "hello world"
+print(x[15])
+# it will not print 
+# it will shows IndexError: string index out of range
 ##############################################################################################################
