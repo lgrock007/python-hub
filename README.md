@@ -5,3 +5,4 @@
 - CASTING
 - STRINGS AND STRING slicing
 - STRINGS MODIFICATIONS ....
+- Booleans Operator
