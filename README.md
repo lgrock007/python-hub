@@ -7,3 +7,5 @@
 - STRINGS MODIFICATIONS ....
 - Operatos and its Types
 - Booleans Operator
+- List Elements
+- List ITEMS
