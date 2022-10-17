@@ -9,3 +9,4 @@
 - Booleans Operator
 - List Elements
 - List ITEMS
+- TUPLES
