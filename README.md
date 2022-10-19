@@ -11,3 +11,4 @@
 - List ITEMS
 - TUPLES
 - SETS
+- DICTIONARY
