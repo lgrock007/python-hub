@@ -6,6 +6,7 @@
 - STRINGS AND STRING slicing
 - STRINGS MODIFICATIONS ....
 - Operatos and its Types
+- INPUT 
 - Booleans Operator
 - List Elements
 - List ITEMS
