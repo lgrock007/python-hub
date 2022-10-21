@@ -15,3 +15,4 @@
 - DICTIONARY
 - IF-ELSE
 - While LOOP
+- FOR LOOP
