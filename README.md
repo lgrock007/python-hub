@@ -16,3 +16,4 @@
 - IF-ELSE
 - While LOOP
 - FOR LOOP
+- FUNCTIONS
