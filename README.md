@@ -18,3 +18,8 @@
 - While LOOP
 - FOR LOOP
 - FUNCTIONS
+- Try and except method
+- date and time
+- math function
+- __init__ method
+- Class & Object
