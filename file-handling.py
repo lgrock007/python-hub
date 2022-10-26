@@ -176,7 +176,15 @@ else:
 # if it is not exist , we can  give like this
 	print("File Not Found") 
 	
-	
+# here u can remove not only the file but also any folder
+
+import os
+if os.path.exists("newfolder12"):
+	os.rmdir("newfolder12")		# rmdir for removing the folder
+	print("folder removed")
+else:
+	print("folder is not exist")
+		  
 #######################################
 
 #	file.close() 
