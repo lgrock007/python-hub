@@ -31,7 +31,7 @@ y = float("45.231")
 
 x = str("s1")
 
-# it will print s1
+# it will print s1 
 
 y = str(5)
 
