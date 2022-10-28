@@ -22,6 +22,7 @@
 - date and time
 - math function
 - __init__ method
+- Python OOPS ( Intro )
 - Class & Object
 - File Handling
   [ for refernce txt file ]
