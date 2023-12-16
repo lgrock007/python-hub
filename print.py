@@ -1,9 +1,9 @@
 ################################
-#                                                             #
-#                                                             #
-#       PRINT FUNCTION                       #   
-#                                                            #
-#                                                            #
+#                              #
+#                              #
+#       PRINT FUNCTION         #   
+#                              #
+#                              #
 ################################
 
 
@@ -57,5 +57,6 @@ print ("hello boomer richie\'s house was demolished by ABC\'s constuctions")
 
 
 
+print("Git Log on my discord checkin...")
 
 
